@@ -11,6 +11,7 @@ function NotFound() {
   return (
     <Wrapper>
       <H2>Sorry, that page was not found.</H2>
+      <a href="/">Home Page</a>
     </Wrapper>
   );
 }
